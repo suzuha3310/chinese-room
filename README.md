@@ -1,6 +1,6 @@
 <h1 align="center">Chinese room</h1>
 
-Logger with color output to the console, timestamp support and the ability to write to a file.
+<p align="center">Logger with color output to the console, timestamp support and the ability to write to a file.</p>
 
 ## Table of Contents
 
