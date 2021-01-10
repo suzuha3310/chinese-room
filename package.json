@@ -1,6 +1,6 @@
 {
   "name": "chinese-room",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Logger with color output to the console, timestamp support and the ability to write to a file.",
   "main": "chinese-room.js",
   "keywords": ["chinese-room", "logger"],
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/suzuha3310/chinese-room.git"
   },
-  "homepage": "https://github.com/suzuha3310/chinese-room.git",
+  "homepage": "https://github.com/suzuha3310/chinese-room#readme",
   "bugs": {
     "url": "https://github.com/suzuha3310/chinese-room/issues"
   }
