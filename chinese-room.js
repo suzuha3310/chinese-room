@@ -187,7 +187,7 @@ class ChineseRoom {
   }
 
   _getTimestamp() {
-    return new Date().toLocaleString()
+    return new Date().toISOString()
   }
 
   _getFormatedTimestamp() {
