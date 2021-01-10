@@ -1,6 +1,6 @@
 {
   "name": "chinese-room",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Logger with color output to the console, timestamp support and the ability to write to a file.",
   "main": "chinese-room.js",
   "keywords": ["chinese-room", "logger"],
